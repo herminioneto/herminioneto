@@ -3,7 +3,7 @@
 ### I'm Hermínio Neto, a computer science student working with web development
 
 - 🔭 I’m currently working on front-end and back-end
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🌱 I’m currently learning ReactJS, NodeJS and Typescript
 - 📫 How to reach me: herminio_neto@outlook.com or https://linkedin.com/in/herminio-neto
 
 ##
@@ -26,7 +26,7 @@
 ##
 
 <div align="center"><br>
-  <a href = "mailto:herminio_neto@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/herminio-neto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/herminiobsn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:herminio_neto@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/herminio-neto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/herminiobsn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
