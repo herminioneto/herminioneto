@@ -1,10 +1,10 @@
 ## Hi there! 👋
 
-### I'm Hermínio Neto, a computer science student working with web development
+### I'm Hermínio Neto, a systems analysis and development student working with web development
 
 - 🔭 I’m currently working on front-end and back-end
 - 🌱 I’m currently learning ReactJS, NodeJS and Typescript
-- 📫 How to reach me: herminio_neto@outlook.com or https://linkedin.com/in/herminio-neto
+- 📫 How to reach me: https://linkedin.com/in/herminio-neto
 
 ##
 
