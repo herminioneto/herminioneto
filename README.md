@@ -2,7 +2,7 @@
 
 ### I'm Hermínio Neto, a systems analysis and development student working with web development
 
-- 🔭 I’m currently working on front-end and back-end
+- 🔭 I'm currently working with game development at LABIRAS (IFPI) and learning web development
 - 🌱 I’m currently learning ReactJS, NodeJS and Typescript
 - 📫 How to reach me: https://linkedin.com/in/herminio-neto
 
