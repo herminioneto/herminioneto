@@ -2,8 +2,8 @@
 
 ### I'm Hermínio Neto, a systems analysis and development student working with web development
 
-- 🔭 I'm currently working with game development at LABIRAS (IFPI) and learning web development
-- 🌱 I’m currently learning ReactJS, NodeJS and Typescript
+- 🔭 I'm currently working with back-end development, mainly using DRF and other Python frameworks
+- 🌱 I'm currently learning about developing REST APIs with Python, clean architecture, design patterns, unit tests, containers and coding best practices
 - 📫 How to reach me: https://linkedin.com/in/herminio-neto
 
 ##
